@@ -1,0 +1,16 @@
+header {
+    background-color: black;
+}
+
+body {
+    background-image: url("pozadi.jpg");
+}
+
+footer {
+    background-color: black;
+}
+
+.button {
+    background-color: red;
+    color: red;
+}
