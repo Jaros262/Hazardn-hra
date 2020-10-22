@@ -1,1 +1,1 @@
-"# kostka" 
+Hazardní hra kostka
